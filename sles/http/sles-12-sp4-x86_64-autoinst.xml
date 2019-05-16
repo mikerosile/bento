@@ -207,6 +207,7 @@
       <package>wget</package>
       <package>perl</package>
       <package>make</package>
+      <package>python-xml</package>
     </packages>
     <patterns config:type="list">
       <pattern>Minimal</pattern>
